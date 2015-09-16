@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 五千五百佛名神除障滅罪經
+#+DATE: 2015-08-30 20:07:55.671422
+#+PROPERTY: JUAN 0
