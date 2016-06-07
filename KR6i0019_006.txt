@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 443
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0019_T_000-0318a>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0019_T_006-0341c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
@@ -305,7 +305,7 @@
 <pb:KR6i0019_T_006-0345a>¶
 來　南無阿鯢羅如來　南無最妙如來　南¶
 無眾光如來　南無無邊名稱如來　南無不¶
-空焰如來　南無仙天如來　南無掃帚(一解微細)¶
+空焰如來　南無仙天如來　南無掃[竺-二+帚](一解微細)¶
 如來　南無生主如來　南無金剛實體如¶
 來　南無善助幢如來　南無色眼如來　南¶
 無相如來　南無華國如來　南無法意如來¶
